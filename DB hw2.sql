@@ -1,4 +1,4 @@
-Create table Cliente
+create table Cliente
 (ID int not null AUTO_INCREMENT  primary key, nome varchar(20), cognome varchar(20),
  nome_utente varchar(20), password varchar(20)) engine='innoDB';
 
